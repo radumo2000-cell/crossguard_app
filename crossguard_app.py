@@ -309,7 +309,7 @@ st.markdown("""
         font-family:'Space Mono',monospace; font-size:11px; color:#00e5a0;
         border:1px solid rgba(0,229,160,0.3); padding:6px 14px;
         border-radius:4px; letter-spacing:1px;
-    ">FNCE313 · G2–5 · SMU · Raph is the goat </div>
+    ">FNCE313 · G2–5 · SMU </div>
 </div>
 """, unsafe_allow_html=True)
 
